@@ -1,2 +1,2 @@
 # Welcome
-The site is currently under construction
+The site is currently under construction.
